@@ -7,8 +7,6 @@ String.prototype.someName = function (someParam) {
   return this.length > someParam;
 }
 
-
-
 // Remember this
 var a = 3;
 var b = Number(3);
